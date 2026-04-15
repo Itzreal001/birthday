@@ -54,7 +54,6 @@ const reasons = [
   "How you make us feel safe and loved",
   "Your amazing sense of humor",
   "The way you lead with love",
-  "Your legacy of love and strength",
   "Because you are simply the best mom ever"
 ];
 
